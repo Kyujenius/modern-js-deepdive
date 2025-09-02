@@ -1,5 +1,7 @@
 # Modern-JS-DeepDive
 
+<img width="508" height="663" alt="image" src="https://github.com/user-attachments/assets/770be8b9-26e9-42b3-a706-c2c9ce3e7c8f" />
+
 모던 자바스크립트 딥다이브 학습을 위한 챕터별 정리 프로젝트입니다.
 
 ## 📚 챕터별 구조
